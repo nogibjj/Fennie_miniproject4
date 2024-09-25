@@ -2,9 +2,10 @@
 
 
 
-# IDS706_Fennie_Report
-## Fennie's Pandas Descriptive Statistics Report
-### Python script reads a dataset, generates descriptive statistics, and a visualization using Pandas
+# IDS706_Fennie_Miniproject4
+## Fennie's GitHub Actions Matrix with Python using the Pandas Descriptive Statistics Report
+
+The purpose of miniproject 3 is to create a GitHub Actions workflow that will test at least three different version of Python. Doing checks for portability, backwards compatability interoperability.
 
 
 
