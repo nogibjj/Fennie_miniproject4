@@ -13,15 +13,13 @@ Data Source - Kaggle: Russia Ukraine War 2022\
 URL: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv
 
 Core Files are:
-- Jupyter notebook
-- library.py
-- test_library.py & test_main.py
-- requirements.txt
-- CI/CD pipeline
-- Makefile
-- README.md
-
-Private Video Link: https://youtu.be/Ikr3W7MdwT0
+* Jupyter notebook
+* library.py
+* test_library.py & test_main.py
+* requirements.txt
+* CI/CD pipeline
+* Makefile
+* README.md
 
 ### Summary Statistics of the Russian Equipment Losses
 ![Alt Text](./summary_stats.png)
