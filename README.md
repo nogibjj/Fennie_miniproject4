@@ -16,7 +16,7 @@ Core Files are:
 * `library.py`
 * `test_library.py` & `test_main.py`
 * `requirements.txt`
-* `CI/CD pipeline`
+* CI/CD pipeline
 * `Makefile`
 * `README.md`
 
