@@ -1,12 +1,10 @@
-[![CI/CD](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/CI_CD.yml) [![Install](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/install.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/install.yml) [![Format](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/format.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/format.yml) [![Lint](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/lint.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/lint.yml) [![Test](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/test.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/test.yml)
-
+[![CI/CD](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/CI_CD.yml) [![Install](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/install.yml) [![Format](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/format.yml) [![Lint](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/lint.yml) [![Test](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Fennie_miniproject4/actions/workflows/test.yml)
 
 
 # IDS706_Fennie_Miniproject4
 ## Fennie's GitHub Actions Matrix with Python using the Pandas Descriptive Statistics Report
 
 The purpose of miniproject 3 is to create a GitHub Actions workflow that will test at least three different version of Python. Doing checks for portability, backwards compatability interoperability.
-
 
 
 Pandas Decriptive Report for Russian Equipment Losses (since the start of the war)\
@@ -25,7 +23,6 @@ Core Files are:
 The execution of the 'GitHub Actions' matrix for the different versions of Python can be found in the .yml 'workflows' files. A screenshot has been provided below for convenience:
 
 <img width="577" alt="matrix" src="https://github.com/user-attachments/assets/8838108b-144c-4c41-a3d2-25896bde4e50">
-
 
 
 The notebook 'main_notebook.ipynb' is the result of the report, but below are some graphics of the summary statistics data visualization.
