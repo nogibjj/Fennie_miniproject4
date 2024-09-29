@@ -24,7 +24,7 @@ Core Files are:
 
 The execution of the 'GitHub Actions' matrix for the different versions of Python can be found in the .yml 'workflows' files. A screenshot has been provided below for convenience:
 
-![Alt Text](https://github.com/nogibjj/Fennie_miniproject4/issues/1#issue-2554662224)
+<img width="577" alt="matrix" src="https://github.com/user-attachments/assets/8838108b-144c-4c41-a3d2-25896bde4e50">
 
 
 
