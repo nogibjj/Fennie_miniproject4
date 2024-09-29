@@ -31,7 +31,7 @@ The execution of the 'GitHub Actions' matrix for the different versions of Pytho
 The notebook 'main_notebook.ipynb' is the result of the report, but below are some graphics of the summary statistics data visualization.
 
 ### Summary Statistics of the Russian Equipment Losses
-![Alt Text](./summary_stats.png)
+<img width="1036" alt="summary_stats" src="https://github.com/user-attachments/assets/5225f53c-066a-46ed-88ef-c84dbe1cf1f6">
 
 ### Data Visualization of the Russian Equipment Losses
-![Alt Text](./main_ground_losses.png)
+![main_ground_losses](https://github.com/user-attachments/assets/d7ced2c7-fa23-44bf-9734-9e674e0ec029)
