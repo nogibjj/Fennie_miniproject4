@@ -14,13 +14,21 @@ Data Source - Kaggle: Russia Ukraine War 2022\
 URL: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv
 
 Core Files are:
-* Jupyter notebook
-* library.py
-* test_library.py & test_main.py
-* requirements.txt
-* CI/CD pipeline
-* Makefile
-* README.md
+* 'Jupyter notebook'
+* 'library.py'
+* 'test_library.py' & 'test_main.py'
+* 'requirements.txt'
+* 'CI/CD pipeline'
+* 'Makefile'
+* 'README.md'
+
+The execution of the 'GitHub Actions' matrix for the different versions of Python can be found in the .yml 'workflows' files. A screenshot has been provided below for convenience:
+
+![Alt Text](https://github.com/nogibjj/Fennie_miniproject4/issues/1#issue-2554662224)
+
+
+
+The notebook 'main_notebook.ipynb' is the result of the report, but below are some graphics of the summary statistics data visualization.
 
 ### Summary Statistics of the Russian Equipment Losses
 ![Alt Text](./summary_stats.png)
