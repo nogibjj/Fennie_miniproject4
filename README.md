@@ -12,7 +12,7 @@ Data Source - Kaggle: Russia Ukraine War 2022\
 URL: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv
 
 Core Files are:
-* `Jupyter notebook`
+* `main_notebook.ipynb` Jupyter notebook
 * `library.py`
 * `test_library.py` & `test_main.py`
 * `requirements.txt`
